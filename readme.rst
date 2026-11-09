@@ -1,69 +1,40 @@
-###################
-What is CodeIgniter
-###################
+# Pahoa College Indonesia (PCI) Internal Administration System
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+An integrated enterprise web application engineered to manage operational, administrative, and information workflows for Pahoa College Indonesia.
 
-*******************
-Release Information
-*******************
+> **Note for Recruiters:** This repository contains source code developed under an enterprise NDA. All private configuration files, database credentials, security keys, and internal student/staff records have been sanitized or omitted for portfolio demonstration purposes.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+---
 
-**************************
-Changelog and New Features
-**************************
+## 👨‍💻 Author & Developer
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+* **Developer:** Wirawan Istiono
+* **Role:** Lead Web Developer & System Analyst
+* **GitHub:** [@istionowirawan](https://github.com/istionowirawan)
+* **LinkedIn:** [Wirawan Istiono](https://www.linkedin.com/in/wirawan-istiono-7b87b227/)
 
-*******************
-Server Requirements
-*******************
+---
 
-PHP version 5.4 or newer is recommended.
+## 🚀 Key Features & System Modules
 
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+* **College Administration & Student Information System:** Centralized platform for managing campus administrative workflows, student records, and operational data.
+* **Role-Based Access & Security:** Custom authentication and multi-level user permissions designed for college administrators, staff, and faculty members.
+* **Data Integrity & Query Optimization:** Structured backend processing built to handle complex database interactions, reducing transaction processing time and improving data accuracy.
+* **Dynamic & Asynchronous User Interface:** Integrated AJAX with jQuery to allow fluid data loading and interactive UI components without full page refreshes.
 
-************
-Installation
-************
+---
 
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+## 🛠️ Tools & Technologies Used
 
-*******
-License
-*******
+* **Backend:** PHP 7.x, CodeIgniter 3 Framework
+* **Frontend:** HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap
+* **Database:** MySQL
+* **Architecture:** Model-View-Controller (MVC)
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+---
 
-*********
-Resources
-*********
+## 📐 Key Engineering Highlights
 
--  `User Guide <http://www.codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <http://www.codeigniter.com/irc>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+* Designed and deployed a robust MVC-based web system handling critical day-to-day college administration functions.
+* Implemented form validation and security protocols to shield data transmissions against common web vulnerabilities.
+* Streamlined complex institutional administrative procedures, leading to enhanced operational efficiency.
